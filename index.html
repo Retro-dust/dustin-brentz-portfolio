@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Something new is coming | Dustin Brentz</title>
+    <meta
+      name="description"
+      content="A new portfolio from Dustin Brentz, Lead / Senior Product Designer, is on the way."
+    />
+    <link rel="icon" href="assets/logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&family=Oxanium:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --header: #333333;
+        --accent: #5dff00;
+        --ink: #111111;
+        --muted: rgba(255, 255, 255, 0.82);
+        --white: #ffffff;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html,
+      body {
+        min-height: 100%;
+      }
+
+      body {
+        font-family: "Nunito Sans", "Avenir Next", Avenir, Helvetica, sans-serif;
+        color: var(--ink);
+        background: var(--white);
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .site-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+        background: var(--header);
+        color: var(--white);
+        padding: 14px 7vw;
+        min-height: 72px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        min-width: 0;
+      }
+
+      .brand img {
+        width: 36px;
+        height: auto;
+        display: block;
+      }
+
+      .brand-email {
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: -0.02em;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .brand-email:hover {
+        color: var(--accent);
+      }
+
+      nav {
+        font-family: "Oxanium", sans-serif;
+        font-size: 15px;
+        display: flex;
+        gap: 28px;
+        flex-shrink: 0;
+      }
+
+      nav .current {
+        color: var(--accent);
+      }
+
+      nav a:hover {
+        color: var(--accent);
+      }
+
+      .hero {
+        min-height: calc(100vh - 72px);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 72px 24px 88px;
+        color: var(--white);
+        background: linear-gradient(90deg, #7eb8e6 0%, #6dcec4 48%, #74dd9f 100%);
+      }
+
+      .eyebrow {
+        display: flex;
+        gap: 56px;
+        justify-content: center;
+        flex-wrap: wrap;
+        font-size: 17px;
+        color: var(--muted);
+        margin-bottom: 28px;
+      }
+
+      h1 {
+        font-family: "Oxanium", sans-serif;
+        font-size: clamp(32px, 5vw, 48px);
+        font-weight: 400;
+        line-height: 1.2;
+        max-width: 16ch;
+        margin-bottom: 16px;
+      }
+
+      h1 em {
+        font-style: normal;
+        font-weight: 500;
+      }
+
+      .lede {
+        max-width: 38rem;
+        font-size: 18px;
+        line-height: 1.5;
+        color: var(--muted);
+        margin-bottom: 36px;
+      }
+
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 168px;
+        padding: 12px 28px;
+        border: 2px solid var(--accent);
+        border-radius: 999px;
+        color: var(--accent);
+        font-family: "Oxanium", sans-serif;
+        font-size: 16px;
+        background: transparent;
+        transition: background 0.2s ease, color 0.2s ease;
+      }
+
+      .cta:hover {
+        background: var(--accent);
+        color: var(--header);
+      }
+
+      .footer-note {
+        margin-top: 48px;
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.72);
+      }
+
+      @media (max-width: 720px) {
+        .site-header {
+          flex-direction: column;
+          align-items: flex-start;
+          padding: 16px 20px 18px;
+        }
+
+        nav {
+          width: 100%;
+          justify-content: space-between;
+          gap: 16px;
+        }
+
+        .eyebrow {
+          gap: 24px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="https://www.dustinbrentz.com/" aria-label="Dustin Brentz">
+        <img src="assets/logo.png" alt="" />
+        <span class="brand-email">dustinbrentz@gmail.com</span>
+      </a>
+      <nav aria-label="Site">
+        <span class="current">Coming Soon</span>
+        <a href="https://www.dustinbrentz.com/">Current site</a>
+        <a href="https://www.linkedin.com/in/dustinbrentz">LinkedIn</a>
+      </nav>
+    </header>
+
+    <main class="hero">
+      <p class="eyebrow">
+        <span>Design Leader</span>
+        <span>Versatile Creative</span>
+      </p>
+      <h1>Something <em>new</em> is coming</h1>
+      <p class="lede">
+        A refreshed portfolio for Dustin Brentz, Lead / Senior Product Designer,
+        is in the works. The current site stays live while this one takes shape.
+      </p>
+      <a class="cta" href="https://www.dustinbrentz.com/">Visit current site</a>
+      <p class="footer-note">© 2026 by Dustin Brentz</p>
+    </main>
+  </body>
+</html>
