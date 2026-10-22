@@ -5,3 +5,5 @@ node_modules/
 dist/
 .vscode/
 .idea/
+.tmp-tools/
+data/videos.json

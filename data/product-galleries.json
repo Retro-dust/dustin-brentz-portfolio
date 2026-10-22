@@ -1,0 +1,634 @@
+{
+  "comp-mn2wtb61": [
+    {
+      "description": "Starting modal for onboarding new participants in a hackathon.",
+      "file": "9598c7_4cdc2d3fcc2f490f9542a1590b4c5ae7~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "Onboarding streamlines starting or joining teams with pertinent info and several ways to find projects, teams, or teammates.",
+      "file": "9598c7_19eaebbee647424daef6fd28dd29be60~mv2.png",
+      "title": "Hack Onboarding Flow"
+    },
+    {
+      "description": "Participant expertise input.",
+      "file": "9598c7_9817fe2e069c421c8b6c5b258144fe72~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "Decision screen from mid-flow.",
+      "file": "9598c7_fbd6784ee96a4a2ea3b56f5945e3d65a~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "Loading screen while the participant's Project Room is spun up.",
+      "file": "9598c7_2228a414a3584c01a4fb58ed2ca17dd2~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "Team image selection with AI image prompt.",
+      "file": "9598c7_046cbe4e14bb4d4a93417f0857380ab5~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "AI image selection loading scree.",
+      "file": "9598c7_56575f4fc9934f3d92653c59def8075b~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "Illustrations used through the onboarding flow. Elements with people are from StorySet.",
+      "file": "9598c7_164e4f58a5794f6697afffd62ee9b3a7~mv2.png",
+      "title": "Hack Onboarding"
+    },
+    {
+      "description": "A more advanced editor for creating submission forms with easy drag and drop functionality.",
+      "file": "9598c7_3e7dc00b28b04e18a317bc9a295c6400~mv2.png",
+      "title": "Hack Submission Form Editor"
+    },
+    {
+      "description": "This is the original version known as View Idea 3.",
+      "file": "9598c7_904d6c816f544602ae2ba0573a14ed07~mv2.png",
+      "title": "Hack Record"
+    },
+    {
+      "description": "An updated version of the View Idea 3 for keeping participants, judges, and admins aligned on the project.",
+      "file": "9598c7_03e1a51e3d8943fb8caeb89e603287be~mv2.png",
+      "title": "Hack Submission Record"
+    }
+  ],
+  "comp-mn2xqq1x": [
+    {
+      "description": "Revamped for importance of user needs based on usage data and competitive research.",
+      "file": "9598c7_06884f079f2341d795585c2015e99426~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "Previous usage data from Heap.",
+      "file": "9598c7_0b9cee3b599d4d49b22317d8b5c61dfd~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "Competitor research and analysis of toolbar placement and item hierarchy.",
+      "file": "9598c7_957d3206f24447ec930a8e6f458e006b~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "Icon and placement testing.",
+      "file": "9598c7_0aee8df0e34f4f7dab8ba1ea6a229544~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "Expandable design iteration.",
+      "file": "9598c7_50e1b7c7f6964edcbbb538b74b236fe9~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "Toolbar with more islands and an inline toolbar per object iteration.",
+      "file": "9598c7_9c08fe212d5046008da5466fe153e1fb~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "Iteration with entire navigation suite overhauled.",
+      "file": "9598c7_51108fca53594da99a04e58e3fef7e16~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "An iteration testing the toolbar at the bottom of the canvas.",
+      "file": "9598c7_2aa1e6fdcbf44c2ba55b7b0d9a22a449~mv2.png",
+      "title": "Whiteboard Toolbar"
+    },
+    {
+      "description": "A new canvas component to facilitate importing top ideas into WB easier collaboration.",
+      "file": "9598c7_c72b3b5f77b2414895bfb9d0300c788f~mv2.png",
+      "title": "Whiteboard Top Ideas"
+    },
+    {
+      "description": "Various component views to test what is useful to the user.",
+      "file": "9598c7_c381df62a6c44aecac4cdb63e002c154~mv2.png",
+      "title": "Whiteboard Top Ideas"
+    },
+    {
+      "description": "Testing on sizing and component header.",
+      "file": "9598c7_c22cce61a3984e5e8d926fd94d37ebd6~mv2.png",
+      "title": "Whiteboard Top Ideas"
+    },
+    {
+      "description": "Last iteration of the component.",
+      "file": "9598c7_b3e105631215418a9bed20ede456044d~mv2.png",
+      "title": "Whiteboard Top Ideas"
+    },
+    {
+      "description": "Full top idea importing flow.",
+      "file": "9598c7_56d7e296182745bab68272ee6d0476d3~mv2.png",
+      "title": "Whiteboard Top Idea"
+    },
+    {
+      "description": "A reworking of the menu similar to toolbar to update the info hierarchy based on user need.",
+      "file": "9598c7_ab7d45cc26c34540a24349c8f1fcf44f~mv2.png",
+      "title": "Whiteboard Menu"
+    },
+    {
+      "description": "Implementing a find feature to locate anything on the canvas.",
+      "file": "9598c7_ce588a1943f94267a6e2a9b711a0cc6f~mv2.png",
+      "title": "Whiteboard Find"
+    }
+  ],
+  "comp-mn2xup22": [
+    {
+      "description": "The original user home was lacking in features and not useful to users.",
+      "file": "9598c7_d8257673fed04af7a00e80ded3163ada~mv2.png",
+      "title": "Project Room User Home"
+    },
+    {
+      "description": "We worked to add info that was valuable and easy to digest.",
+      "file": "9598c7_d91cbcadaf8d47c7af738557a6dc91b5~mv2.png",
+      "title": "Project Room User Home"
+    },
+    {
+      "description": "Another iteration providing more info charts and comments.",
+      "file": "9598c7_f0fbaea726bf47ceb555ae031f61f0de~mv2.png",
+      "title": "Project Room User Home"
+    },
+    {
+      "description": "This variation was aimed at leveraging the tasks feature in a prominent spot.",
+      "file": "9598c7_23cc70b8a91e43c6b9f22e972cd8a876~mv2.png",
+      "title": "Project Room User Home"
+    },
+    {
+      "description": "Hackathons utilize project rooms and needed a home page similar to the base version.",
+      "file": "9598c7_40f59837ccd04fd2ac1a185f3f15e472~mv2.png",
+      "title": "Hack Project Room Home"
+    },
+    {
+      "description": "We took elements from the initial project room update designs and worked them in here.",
+      "file": "9598c7_c968f6c37c7742a4a6ee7a5c1f9d2af3~mv2.png",
+      "title": "Hack Project Room Home"
+    },
+    {
+      "description": "This was the final version that added the ability to add/reject users joining a team.",
+      "file": "9598c7_b322c6bb96a2412a8643f4dd53db35fc~mv2.png",
+      "title": "Hack Project Room Home"
+    },
+    {
+      "description": "The tasks and sub-tasks feature was added to track milestones and progress.",
+      "file": "9598c7_fa26bb5296d04d4a8bb2e97a93bdc7f4~mv2.png",
+      "title": "Tasks"
+    },
+    {
+      "description": "Drag and drop for easy to organize tasks.",
+      "file": "9598c7_6e72b6ea2b7e49b58336c9a7436cf63d~mv2.png",
+      "title": "Tasks"
+    },
+    {
+      "description": "Tasks make use of simple filters and sorting.",
+      "file": "9598c7_c9d153002d514871bf9fe1965bc3afb2~mv2.png",
+      "title": "Tasks"
+    },
+    {
+      "description": "We added a basic notes option that doubled as a chat section.",
+      "file": "9598c7_3551e0a43cb24733b7b67acbe72dc83a~mv2.jpg",
+      "title": "Tasks"
+    },
+    {
+      "description": "Items in the nav tree were not aligned well, so I worked out some variations to clean the alignment up.",
+      "file": "9598c7_7e3034ffb71e4ec8b0124375b6e1c155~mv2.png",
+      "title": "Left Navigation Rail"
+    }
+  ],
+  "comp-mn2y04bp1": [
+    {
+      "description": "An update to product details pages with more pertinent info and resources.",
+      "file": "9598c7_20073134beab452483cab98e17f4dd85~mv2.png",
+      "title": "Product Details Page"
+    },
+    {
+      "description": "The Idea Box is similar to Hack, but each product's page can differ based on need.",
+      "file": "9598c7_93107b1c5484444c9078e13c67d76b16~mv2.png",
+      "title": "Product Details Page"
+    },
+    {
+      "description": "Early design iterations.",
+      "file": "9598c7_9e655964f4cf45f38a05d63597013ca4~mv2.png",
+      "title": "Product Details Page"
+    },
+    {
+      "description": "More design iterations.",
+      "file": "9598c7_e86338314ae24a8d99ea42d69136c6e4~mv2.png",
+      "title": "Product Details Page"
+    },
+    {
+      "description": "Even MORE design iterations.",
+      "file": "9598c7_036a281ed9ba4fdabb242bef0160163e~mv2.png",
+      "title": "Product Details Page"
+    },
+    {
+      "description": "This original selection page felt outdated. The sort and filter needed a lot of love.",
+      "file": "9598c7_93e068ac6304422d87a4d5fb0e6f578b~mv2.png",
+      "title": "Product Select Page"
+    },
+    {
+      "description": "Final version showed all products in a single flow with better search, sort, and filtering.",
+      "file": "9598c7_28a4ca4b4ec64f89af3f638116169576~mv2.png",
+      "title": "Product Select Page"
+    },
+    {
+      "description": "A full view of the updated page.",
+      "file": "9598c7_63ea8368ea1f49b19e94276fc05baa2f~mv2.png",
+      "title": "Product Select Page"
+    }
+  ],
+  "comp-mn2zw80m": [
+    {
+      "description": "While Sky was the latest design system iteration, the icons, status badges and tree weren't working.",
+      "file": "9598c7_76e86fea14b540538bb491d200995ffe~mv2.png",
+      "title": "Sky Icons"
+    },
+    {
+      "description": "Using a mix of Sky and MLM icons, I 1:1 the entire set of icons and status badges needed.",
+      "file": "9598c7_21ee0da602b044749a5980ecf0314c6c~mv2.png",
+      "title": "MLM (Original) Icons"
+    },
+    {
+      "description": "These icons were still used and known by many customers, so we kept close to their metaphors.",
+      "file": "9598c7_5880a7217e594647b2cce3055c98c973~mv2.png",
+      "title": "MLM (Original) Icons"
+    },
+    {
+      "description": "This was the full list of icons and status badges for the updated icon set.",
+      "file": "9598c7_9b9e40900e85429b9bee4b6e39d8b0bb~mv2.png",
+      "title": "Updated Icons"
+    },
+    {
+      "description": "Badge placement for every icon was considered for consistency.",
+      "file": "9598c7_7b012496ce4a408397423bfd821ef354~mv2.png",
+      "title": "Updated Icons"
+    },
+    {
+      "description": "Badge placement was determined to not impede too much of the icon.",
+      "file": "9598c7_2b6f194f42d242109cab1e82e297040c~mv2.png",
+      "title": "Updated Icons"
+    },
+    {
+      "description": "Here are the icons live in the new tree.",
+      "file": "9598c7_1106a3b50d284b029c1ab670e2568bcd~mv2.png",
+      "title": "Updated Icons"
+    },
+    {
+      "description": "Smart campaigns needed a new metaphor for the icon. These are explorations.",
+      "file": "9598c7_fd53d56d5cc1490baf52be8b873ed65b~mv2.png",
+      "title": "Smart Campaign Icons"
+    }
+  ],
+  "comp-mn309lj1": [
+    {
+      "description": "I worked out several iterations of the full product process.",
+      "file": "9598c7_8cc51292982c46f9ae473f9f9247493a~mv2.png",
+      "title": "Process Design"
+    },
+    {
+      "description": "An earlier version of the process.",
+      "file": "9598c7_b932ac36b4764bda8a8d0a98a3858e7f~mv2.png",
+      "title": "Process Design"
+    },
+    {
+      "description": "I managed the tagging of all features in Pendo, and set the process to insure proper tags.",
+      "file": "9598c7_44a83e3e6ace423a96b757a4a5f6308b~mv2.png",
+      "title": "Pendo"
+    },
+    {
+      "description": "One of the early screens to get converted to Adobe's design system.",
+      "file": "9598c7_04b811e34c5b4ae1998d352687f068ad~mv2.png",
+      "title": "Adobe Spectrum"
+    },
+    {
+      "description": "Another screen converted to utilize one of Spectrums editor layouts.",
+      "file": "9598c7_044acb7b01084449af3fdf862c8220ed~mv2.png",
+      "title": "Spectrum Editor"
+    },
+    {
+      "description": "An event program laid out in the Spectrum system.",
+      "file": "9598c7_6a80ce8442cf45c496535f4c2e7038fc~mv2.png",
+      "title": "Event Program"
+    },
+    {
+      "description": "Partial Spectrum and part Marketo Sky in early transition.",
+      "file": "9598c7_2e9183e514a044c1b5c696c8bb595db3~mv2.png",
+      "title": "Hybrid Design"
+    },
+    {
+      "description": "A design utilizing the Sky design system.",
+      "file": "9598c7_33c7459cdee941aba0a44bc2f93abf30~mv2.png",
+      "title": "Marketo Sky"
+    }
+  ],
+  "comp-mn3tnvlg": [
+    {
+      "description": "Initial screen opened like a garage door as the lights fade on.",
+      "file": "9598c7_15f3e4889a754cf6827962f0b6f823b7~mv2.jpg",
+      "title": "Service History POC"
+    },
+    {
+      "description": "Fully interactive car for honing in on the specific area of interest.",
+      "file": "9598c7_49cd1f87f19341028729cb5d51ea6532~mv2.jpg",
+      "title": "Service History POC"
+    },
+    {
+      "description": "Overview of the selected part.",
+      "file": "9598c7_7b332725aa28435ca3663188f140b896~mv2.jpg",
+      "title": "Service History POC"
+    },
+    {
+      "description": "Additional info was available depending on the part selected.",
+      "file": "9598c7_056cb535c7544458b8deb497e5d64059~mv2.jpg",
+      "title": "Service History POC"
+    },
+    {
+      "description": "Other valuable info was available as well.",
+      "file": "9598c7_4c5bd803dec64a5aac3daa0f6f519812~mv2.jpg",
+      "title": "Service History POC"
+    },
+    {
+      "description": "This portal provided Audi a way to purchase customized hardware for employees.",
+      "file": "9598c7_2edb922b38344c8b995e12ff807c3c2f~mv2.jpg",
+      "title": "Hardware Order Portal"
+    },
+    {
+      "description": "Breakdowns of subsidized and unsubsidized items.",
+      "file": "9598c7_2e547d8e89ef48ad8ce4b76f0fd78de4~mv2.jpg",
+      "title": "Hardware Order Portal"
+    },
+    {
+      "description": "We followed Audi's design system using assets provided by them.",
+      "file": "9598c7_a4dfefe7550f400789edb01349260320~mv2.jpg",
+      "title": "Hardware Order Portal"
+    },
+    {
+      "description": "Order summary.",
+      "file": "9598c7_1c3a17847b494b2691e9ebc60f8fb569~mv2.jpg",
+      "title": "Hardware Order Portal"
+    }
+  ],
+  "comp-mn3ts3l6": [
+    {
+      "description": "Users would only get a few options in the app until the rally started.",
+      "file": "9598c7_e30d64b725f94d32ac5a88cfb297a8e4~mv2.jpg",
+      "title": "Megarun App (Tablet)"
+    },
+    {
+      "description": "Directions would become available on the day at hand.",
+      "file": "9598c7_15f6019feafd4185a7b2c1a63b5f1d3d~mv2.jpg",
+      "title": "Megarun App (Tablet)"
+    },
+    {
+      "description": "Navigators had the ability to send and receive messages from other cars.",
+      "file": "9598c7_bfbddaff1cf740bba91be5bb3a560c32~mv2.jpg",
+      "title": "Megarun App (Tablet)"
+    },
+    {
+      "description": "They could track these messages in a panel.",
+      "file": "9598c7_aea5a876e6b04ab8a6e9bf9ec1a5109e~mv2.jpg",
+      "title": "Megarun App (Tablet)"
+    },
+    {
+      "description": "Social media played a large part in the rally with images showing only with the right hashtags.",
+      "file": "9598c7_40a4652646044a1199e2c7e8814e4ab6~mv2.jpg",
+      "title": "Megarun App (Tablet)"
+    },
+    {
+      "description": "Users were also offered a mobile version of the app.",
+      "file": "9598c7_74a68e1ddaf347d596e8d9d48490af83~mv2.jpg",
+      "title": "Megarun App (Mobile)"
+    },
+    {
+      "description": "The same options were available to users, but the layout was geared to the phone.",
+      "file": "9598c7_5b19e1dcc9094dc98b179de122e29f59~mv2.jpg",
+      "title": "Megarun App (Mobile)"
+    },
+    {
+      "description": "Mobile users also had the ability to send and receive messages.",
+      "file": "9598c7_8cc7535ca2ff408aaf5dbbf95b374e26~mv2.jpg",
+      "title": "Megarun App (Mobile)"
+    },
+    {
+      "description": "They had the same way to track the messages as well.",
+      "file": "9598c7_f531768c44fc4726963fd811009787e6~mv2.jpg",
+      "title": "Megarun App (Mobile)"
+    },
+    {
+      "description": "Users had a simple way to sign into social accounts and track their team info.",
+      "file": "9598c7_c438acb0e5eb418ab5a94c376300668d~mv2.jpg",
+      "title": "Megarun App (Mobile)"
+    }
+  ],
+  "comp-mn3ttq97": [
+    {
+      "description": "A special app celebrating Dr. Buss.",
+      "file": "9598c7_8717b7b9b8ee48d58496c7cd2a1d7391~mv2.jpg",
+      "title": "Jerry Buss Memorial App"
+    },
+    {
+      "description": "It provided timelines, images, and a memorial Twitter feed.",
+      "file": "9598c7_309838583f904973be8a50f3084b584b~mv2.png",
+      "title": "Jerry Buss Memorial App"
+    },
+    {
+      "description": "This app was given to Ken and crew with all current Gymkhana events at the time.",
+      "file": "9598c7_59c3e74c8b5a47879bc6255f401ac495~mv2.jpg",
+      "title": "Ken Block App"
+    },
+    {
+      "description": "This app was given to the cast and crew at the Catching Fire premier on custom iPads.",
+      "file": "9598c7_4c840a0ac5984d27b1d08434ba3c426a~mv2.jpg",
+      "title": "Hunger Games App"
+    },
+    {
+      "description": "It contained two audiobooks for the users to enjoy.",
+      "file": "9598c7_17e66a3e6b284ff1b4169b96b9a8ecdb~mv2.jpg",
+      "title": "Hunger Games App"
+    },
+    {
+      "description": "LA was working to win the 2017 NHL All-Star Game and we partnered on a pitch app.",
+      "file": "9598c7_371e29a01bae4b0a9544e9c69103509e~mv2.jpg",
+      "title": "NHL LA App"
+    },
+    {
+      "description": "A POC app for Vossen wheels.",
+      "file": "9598c7_3f0de3b98b7840d1b2568b784620b401~mv2.png",
+      "title": "Vossen"
+    },
+    {
+      "description": "Each wheel contained info and targeted data.",
+      "file": "9598c7_cd38d10b486648568e0f4e7febd60d89~mv2.png",
+      "title": "Vossen"
+    },
+    {
+      "description": "An app to celebrate and share car week in Monterey.",
+      "file": "9598c7_634062826c464fbfbe16913233e4bede~mv2.jpg",
+      "title": "Monterey Car Week"
+    },
+    {
+      "description": "The app leverage social media for stunning images and media.",
+      "file": "9598c7_4da0850e45174d6692b5c42ac372d2e7~mv2.jpg",
+      "title": "Monterey Car Week"
+    },
+    {
+      "description": "The cast and crew received this app at one of the season premiers on custom iPads.",
+      "file": "9598c7_609d6f44dfba4dc69e7ceb8286ca376c~mv2.png",
+      "title": "Outlander App"
+    },
+    {
+      "description": "A POC app for tracking customer info and interest.",
+      "file": "9598c7_1fb172347d5444359060a0567a0735e2~mv2.jpg",
+      "title": "Titin"
+    },
+    {
+      "description": "User could create and store profiles to keep up with all things Titin.",
+      "file": "9598c7_7c0fb1a8b9fd40b79df2324193d3fe8b~mv2.jpg",
+      "title": "Titin"
+    },
+    {
+      "description": "A demo app that would keep track of their events and club's general info.",
+      "file": "9598c7_03a507a883f94dc0a081c7985d8ada6e~mv2.jpg",
+      "title": "The Thermal Club"
+    },
+    {
+      "description": "A POC for a event with multiple speakers and sessions.",
+      "file": "9598c7_692af2eb0df341268d4d5b430ddfe825~mv2.jpg",
+      "title": "Salt"
+    },
+    {
+      "description": "POC app for an in-restaurant menu and info app.",
+      "file": "9598c7_320144b8dd0c49ecbbc832f8fc42a70b~mv2.jpg",
+      "title": "Plate & Simple"
+    },
+    {
+      "description": "We also designed a mobile version for the customer as well.",
+      "file": "9598c7_b948073527bf42d6b86da30e9574d06a~mv2.jpg",
+      "title": "Plate & Simple"
+    },
+    {
+      "description": "Demo app for tracking equipment and vehicles at the company.",
+      "file": "9598c7_c0983a8b983c4df99991e0f918a2cb8b~mv2.jpg",
+      "title": "Hadco"
+    },
+    {
+      "description": "",
+      "file": "9598c7_8fe359f052004f5e86696cbe68c84009~mv2.png",
+      "title": ""
+    }
+  ],
+  "comp-mn3tziur": [
+    {
+      "description": "Designed with a simple UX and UI so it would be easy for kids to use.",
+      "file": "9598c7_61944b8fbfd44c9ab7e0e0d8fb2eee20~mv2.png",
+      "title": "Scareproof (Tablet)"
+    },
+    {
+      "description": "Scarespray could be \"sprayed\" around the room to ward off monsters.",
+      "file": "9598c7_190a578fa29b4ddeb150f45cd5508fce~mv2.png",
+      "title": "Scareproof (Tablet)"
+    },
+    {
+      "description": "A radar would track any bad things in their room. Of course it never shows anything.",
+      "file": "9598c7_eeb4f459dd984811a69bf3fdf9eac4a7~mv2.png",
+      "title": "Scareproof (Tablet)"
+    },
+    {
+      "description": "I added a timer so kids could use it as a nightlight and have it turn off at a specific time.",
+      "file": "9598c7_61b14b5034954458b1cf4465adbc77a8~mv2.png",
+      "title": "Scareproof (Tablet)"
+    },
+    {
+      "description": "Another feature was a \"scanner\" that kids could use to scan their room.",
+      "file": "9598c7_ec532e3cbd354014b53b3f8a9cd269e5~mv2.png",
+      "title": "Scareproof (Tablet)"
+    },
+    {
+      "description": "There was also a mobile version released on iPhone and Android.",
+      "file": "9598c7_48739f9f26bb4bf981b280386bf37a7c~mv2.png",
+      "title": "Scareproof (Mobile)"
+    },
+    {
+      "description": "A simple website was created to show off the app and offer tee shirts for kids.",
+      "file": "9598c7_40a3454066aa4b0f8dc7ec2c0986ad29~mv2.jpg",
+      "title": "Scareproof Website"
+    }
+  ],
+  "comp-mn4crehm": [
+    {
+      "description": "A field app for workers to fill out their time and safety info.",
+      "file": "9598c7_cb1f19105d6c4b91b731f1d8ae883562~mv2.png",
+      "title": "NCE App"
+    },
+    {
+      "description": "Workers could track and submit multiple forms that usually took lots of paper.",
+      "file": "9598c7_d22be3920aa444a18337ea39ac9b0410~mv2.png",
+      "title": "NCE App"
+    },
+    {
+      "description": "Timesheets could be sent instantly saving time from all sides of the company.",
+      "file": "9598c7_988eafcb54204b2eaca73137d0b19429~mv2.png",
+      "title": "NCE App"
+    },
+    {
+      "description": "They had access to important files that usually took up too much space to have on hand.",
+      "file": "9598c7_7e3f62909bdf454784cde8984d9a1ff8~mv2.png",
+      "title": "NCE App"
+    },
+    {
+      "description": "Submissions were authenticated via a signature and employee pin.",
+      "file": "9598c7_d045a4658d9a4311b195a00f302fe235~mv2.png",
+      "title": "NCE App"
+    },
+    {
+      "description": "Several forms were available with larger UI elements for ease of use on the job.",
+      "file": "9598c7_0eed190daa7546ca835de0ddf26c1384~mv2.jpg",
+      "title": "NCE App"
+    },
+    {
+      "description": "The admin portal kept the office workers aware of other workers' needs instantly.",
+      "file": "9598c7_f575846446df4730b5d4049b7b748a8b~mv2.jpg",
+      "title": "NCE Portal"
+    },
+    {
+      "description": "Previously, they waiting for field workers to arrive back at the office for paperwork and info on issues.",
+      "file": "9598c7_2c439fcfe2864eceb2535e795699c74f~mv2.jpg",
+      "title": "NCE Portal"
+    },
+    {
+      "description": "The UI had to be high contrast and simple due to lots of the employees being outside and not tech savvy.",
+      "file": "9598c7_12d5513b79b04d8a807394fb1179b876~mv2.jpg",
+      "title": "NRE App"
+    },
+    {
+      "description": "NRE's time tracking had several variables like rain days) factored in.",
+      "file": "9598c7_4459ff3a3db0472bbd4c514504a6e081~mv2.png",
+      "title": "NRE App"
+    },
+    {
+      "description": "Tool checkout/checkin was a key feature needed for field workers.",
+      "file": "9598c7_188c294a315e4534a9285ca7a2f98419~mv2.jpg",
+      "title": "NRE App"
+    },
+    {
+      "description": "Other options like Annual Reviews were added to the app.",
+      "file": "9598c7_037491e7ee8e4b109a72f36cfcea3294~mv2.jpg",
+      "title": "NRE App"
+    },
+    {
+      "description": "Files were trackable by project.",
+      "file": "9598c7_ff7ea4ddae744907a7b1668ffdd8d1e9~mv2.jpg",
+      "title": "NRE Portal"
+    },
+    {
+      "description": "Admins could easily locate timesheet info for workers.",
+      "file": "9598c7_7c43f238f09e4dbab470910b5084f9c8~mv2.jpg",
+      "title": "NRE Portal"
+    },
+    {
+      "description": "Crew members could be tracked per site or foreman.",
+      "file": "9598c7_e5ba30f93842461fb7d2f82d881367c0~mv2.jpg",
+      "title": "NRE Portal"
+    }
+  ]
+}
