@@ -577,7 +577,7 @@ def main():
       <h2>Case Studies</h2>
       <div class="cases">
         {case_card("/brightidea-whiteboard-case-study", case_whiteboard, "Brightidea - Whiteboard AI", "Senior Product Designer", "Discover the project that brought robust AI features to Brightidea's white-boarding tool.", "green")}
-        {case_card("/marketo-editors-case-study", case_editors, "Adobe - Editors", "Product Designer III", "Marketo needed modernised email editors, and a combination of products provided the solution.", "blue")}
+        {case_card("/marketo-editors-case-study", case_editors, "Adobe - Editors", "Product Designer III", "Marketo needed modernized email editors, and a combination of products provided the solution.", "blue")}
       </div>
     </section>
     {company("Brightidea", "Senior Product Designer", "2022 - 2026",
@@ -630,7 +630,7 @@ def main():
       "New Leaf was in need of branding, so I worked up cohesive designs for their initial needs. Working closely with the owners, I delivered them a logo, collateral pieces, and social media posts.",
       gg("newleaf"), soft=True)}
     {company("Freelance & Personal", "Graphic Designer", "2008 - 2016",
-      "Many of these personal designs are much older, but they tell part of the story. Whether freelance or personal so many of these project come with stellar memories of their creation.",
+      "Many of these personal designs are much older, but they tell part of the story. Whether freelance or personal so many of these projects come with stellar memories of their creation.",
       project("Various Designs - Random designs from the way back.", gg("freelance")))}
     {cta("View Product Design", "/product-design")}
   </main>"""
@@ -654,7 +654,7 @@ def main():
       <p>As the sole product designer at Brightidea for most of my tenure, I owned the design side of this project end-to-end from initial research through release. I partnered closely with a product manager, customer success, and engineering team throughout.</p>
         """, soft=True)
         + study_band(f"""
-      <h2>Underatanding the Problem</h2>
+      <h2>Understanding the Problem</h2>
       <p>Before laying out a single thing, we started researching. The existing AI tools had low engagement, but we didn't know why. Discoverability, trust, relevance, friction? All were on the table.</p>
       <p>Working with the PM and customer success team, we ran user interviews and quickly found the real culprit: the experience dead-ended upon their initial prompt. There were no ways to expand ideas, no clustering for organization, and no path to prioritization.</p>
       <p>That reframed everything. It was a rethink of how AI should live inside the whiteboard workflow.</p>
@@ -673,7 +673,7 @@ def main():
       <h2>The Solution</h2>
       <p>The revamped AI system shipped as a two-pronged experience:</p>
       <h3>AI Panel (Left Navigation)</h3>
-      <p>Upon deeper testing, the original locatio dedicated, always-visible space for generating ideas, expanding thinking, and running AI-assisted sessions. Designed to be discoverable without dominating the canvas.</p>
+      <p>Upon deeper testing, the original location was a dedicated, always-visible space for generating ideas, expanding thinking, and running AI-assisted sessions. Designed to be discoverable without dominating the canvas.</p>
       <h3>Contextual AI Menu</h3>
       <p>When a user selects a sticky, cluster, or group of objects, relevant AI actions surface via a context menu.</p>
       <ul>
@@ -706,7 +706,7 @@ def main():
           ("9598c7_7712e4cbd9bd4d82ba0b512bcdf87edb~mv2.png", "AI Context Menu", "When more than one item is selected the options adjust automatically."),
           ("9598c7_0fc777304a684b649c4ce12933ded7e2~mv2.png", "AI Context Menu", "Options for a selected block of text."),
           ("9598c7_9921ca75d5734d2d97376bb0b5003878~mv2.png", "AI Context Menu", "Organization options to cluster items."),
-          ("9598c7_fe91f021b7df428a9715a8204230a67e~mv2.png", "AI Generated Smart Matric", "A matrix created from an array of stickies based on user-set parameters."),
+          ("9598c7_fe91f021b7df428a9715a8204230a67e~mv2.png", "AI Generated Smart Matrix", "A matrix created from an array of stickies based on user-set parameters."),
       ])}
         """, soft=True),
         "View Marketo Editors Case Study",
@@ -742,7 +742,7 @@ def main():
       <h3>Step 1: Editor Landscape Across Adobe</h3>
       <p>I reached out to multiple product teams across Adobe to map what editors already existed, how they were structured, and which might be a fit. This surfaced two strong candidates. One used in Adobe Journey Optimizer (AJO) and another from the Adobe Experience Manager (AEM) with a more flexible content structure that aligned with Marketo's email templating model.</p>
       {study_row(lib, [
-          ("9598c7_15edba79d17d4c8fa5b26dc115375610~mv2.png", "Adobe AJO Editor", "One of Adobe's newer editors for journey oprimization."),
+          ("9598c7_15edba79d17d4c8fa5b26dc115375610~mv2.png", "Adobe AJO Editor", "One of Adobe's newer editors for journey optimization."),
           ("9598c7_2f470df658f34e4792d4ae285f75b23e~mv2.png", "Adobe AJO/Experience Platform Editor", "Adobe editor for the Experience Cloud Platform."),
           ("9598c7_cb3d167b0a814f5daf0d3f495d97e765~mv2.png", "Adobe Editor Flow", "The basic flow for editors in several Adobe products."),
       ], 3)}
