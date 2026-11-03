@@ -1,5 +1,4 @@
-motion-lab
-node_modules
 .git
-.cursor
+node_modules
+motion-lab/node_modules
 *.md
