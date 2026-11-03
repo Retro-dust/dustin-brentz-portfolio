@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "lab": "npm --prefix motion-lab run dev",
+    "build:lab": "npm --prefix motion-lab run build"
+  }
+}

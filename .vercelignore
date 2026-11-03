@@ -1,0 +1,4 @@
+.git
+node_modules
+motion-lab/node_modules
+*.md
