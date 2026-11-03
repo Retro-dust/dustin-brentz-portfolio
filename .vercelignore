@@ -1,0 +1,5 @@
+motion-lab
+node_modules
+.git
+.cursor
+*.md

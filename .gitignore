@@ -3,6 +3,7 @@
 .env.*
 node_modules/
 dist/
+lab/
 .vscode/
 .idea/
 .tmp-tools/
